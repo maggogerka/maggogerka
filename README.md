@@ -139,7 +139,7 @@ upon in advance.
 
 ## 📫 Contact
 
-- **Email:** [fbembiev@mail.ru](mailto:fbembiev@mail.ru)
+- **Email:** [mail.ru](mailto:fbembiev@mail.ru)
 - **Telegram:** [@maggogerka](https://t.me/maggogerka)
 - **GitHub:** [github.com/maggogerka](https://github.com/maggogerka)
 - **EMSU:** [эмсу.рф](https://xn--l1akg1b.xn--p1ai)
