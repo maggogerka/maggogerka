@@ -34,7 +34,8 @@ architecture, writing firmware, integrating hardware, testing the system and
 documenting the result.
 
 📍 Moscow, Russia  
-🎓 MAI, 2025–2029  
+🎓 MAI, 2025–2029
+⭐ SPIEF Academy Resident, 2026–2027
 💼 Open to internships, part-time roles and collaborative projects
 
 ---
