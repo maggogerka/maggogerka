@@ -19,8 +19,6 @@
 
 ---
 
----
-
 ## 👨‍💻 About Me
 
 I am an **Electrical Engineering and Power Engineering student at the Moscow
@@ -41,9 +39,6 @@ documenting the result.
 🎓 MAI, 2025–2029
 ⭐ SPIEF Academy Resident, 2026–2027
 💼 Open to internships, part-time roles and collaborative projects
-
----
-
 
 ---
 
