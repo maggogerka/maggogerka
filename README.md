@@ -35,9 +35,9 @@ I enjoy turning an engineering idea into a working prototype: defining the
 architecture, writing firmware, integrating hardware, testing the system and
 documenting the result.
 
-📍 Moscow, Russia
-🎓 MAI, 2025–2029
-⭐ SPIEF Academy Resident, 2026–2027
+📍 Moscow, Russia  
+🎓 MAI, 2025–2029  
+⭐ SPIEF Academy Resident, 2026–2027  
 💼 Open to internships, part-time roles and collaborative projects
 
 ---
