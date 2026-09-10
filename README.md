@@ -19,10 +19,14 @@
 
 ---
 
+---
+
 ## 👨‍💻 About Me
 
 I am an **Electrical Engineering and Power Engineering student at the Moscow
 Aviation Institute (MAI)** and a student of the **Advanced Engineering School**.
+
+I am also a **Resident of the [SPIEF Academy](https://spiefacademy.com), 2026–2027**, participating in an international educational and project-based program focused on leadership, technology, and entrepreneurship.
 
 I develop hardware–software prototypes based on microcontrollers. My current
 focus is embedded development in **C/C++**, real-time firmware, hardware
@@ -33,10 +37,13 @@ I enjoy turning an engineering idea into a working prototype: defining the
 architecture, writing firmware, integrating hardware, testing the system and
 documenting the result.
 
-📍 Moscow, Russia  
+📍 Moscow, Russia
 🎓 MAI, 2025–2029
 ⭐ SPIEF Academy Resident, 2026–2027
 💼 Open to internships, part-time roles and collaborative projects
+
+---
+
 
 ---
 
