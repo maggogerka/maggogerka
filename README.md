@@ -2,7 +2,7 @@
 
 # Hi, I'm Felix Bembiev 👋
 
-### Electrical & Electronics Engineering Student
+### Embedded Systems Engineer
 
 **Embedded Systems · Engineering Prototyping · Hardware–Software Development**
 
@@ -21,19 +21,12 @@
 
 ## 👨‍💻 About Me
 
+I build complete embedded products and research prototypes — from firmware and hardware integration to desktop tools, web interfaces, testing and documentation.
+
 I am an **Electrical Engineering and Power Engineering student at the Moscow
 Aviation Institute (MAI)** and a student of the **Advanced Engineering School**.
 
 I am also a **Resident of the [SPIEF Academy](https://spiefacademy.com), 2026–2027**, participating in an international educational and project-based program focused on leadership, technology, and entrepreneurship.
-
-I develop hardware–software prototypes based on microcontrollers. My current
-focus is embedded development in **C/C++**, real-time firmware, hardware
-interfaces, wireless communication and autonomous devices with local user
-interfaces.
-
-I enjoy turning an engineering idea into a working prototype: defining the
-architecture, writing firmware, integrating hardware, testing the system and
-documenting the result.
 
 📍 Moscow, Russia  
 🎓 MAI, 2025–2029  
@@ -59,10 +52,12 @@ documenting the result.
 ![PlatformIO](https://img.shields.io/badge/PlatformIO-F5822A?style=flat-square&logo=platformio&logoColor=white)
 ![CMake](https://img.shields.io/badge/CMake-064F8C?style=flat-square&logo=cmake&logoColor=white)
 
-- **Microcontrollers:** ESP32, ESP32-S3, ESP8266, AVR/ATmega328
-- **Interfaces:** GPIO, ADC, UART, I²C, SPI and USB HID
-- **Connectivity:** Wi-Fi, HTTP, REST/JSON APIs, WebSocket and HTTPS
-- **Embedded tools:** ESP-IDF, FreeRTOS, TinyUSB, PlatformIO, CMake, NVS and LittleFS
+- **Embedded:** ESP32, ESP32-S3, ESP8266, AVR/ATmega328, ESP-IDF, FreeRTOS, TinyUSB, PlatformIO
+- **Interfaces:** GPIO, ADC, I2C, SPI, UART, USB HID, USB NCM
+- **Networking:** Wi-Fi, HTTP, REST APIs, WebSocket, HTTPS, mDNS
+- **Storage and Updates:** NVS, LittleFS, OTA, firmware rollback
+- **Desktop and Data:** PySide6, pyqtgraph, pyserial, data acquisition, signal processing
+- **Hardware:** prototyping, soldering, multimeter, basic oscilloscope debugging
 
 ### Software and Engineering Workflow
 
@@ -103,30 +98,14 @@ instructions are available in the individual repositories.
 
 ### Advanced Engineering School
 
-- **Specialization:** Intelligent Electric Power Systems for Transportation
+- **Specialization:** Information technologies in electroenergy and electromechanical systems
 - **Educational track:** Integrated Design of Complex Technical Systems
-
-**Relevant coursework:** Electrical Engineering, Electronics, Engineering and
-Computer Graphics, Calculus, Linear Algebra, Theoretical Mechanics, Physics,
-Probability and Mathematical Statistics, Differential Equations, and
-Electrical and Structural Materials Science.
 
 ---
 
 ## 🤝 Collaboration
 
-I am open to:
-
-- engineering and embedded-systems internships;
-- part-time and remote engineering roles;
-- scientific and applied research;
-- startup and engineering-prototype teams;
-- open-source and educational projects;
-- joint hardware–software development.
-
-Remote collaboration is especially convenient alongside my studies. On-site
-work in Moscow is also possible with a compatible schedule. My current
-availability is approximately **10–15 hours per week**.
+Open to embedded systems, firmware, IoT and engineering R&D opportunities.
 
 For selected educational, scientific or open-source projects, I may contribute
 on a non-commercial basis when the scope, authorship and attribution are agreed
@@ -148,5 +127,5 @@ upon in advance.
 - **GitHub:** [github.com/maggogerka](https://github.com/maggogerka)
 - **EMSU:** [эмсу.рф](https://xn--l1akg1b.xn--p1ai)
 
-> I am always open to discussing interesting engineering ideas, internships,
+> I am always open to discussing interesting engineering ideas, job offers,
 > research and collaborative projects.
