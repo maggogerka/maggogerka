@@ -78,7 +78,6 @@ I am also a **Resident of the [SPIEF Academy](https://spiefacademy.com), 2026–
 | Project | Description |
 |---|---|
 | **[Electromyographic Control System research platform](https://github.com/maggogerka/emcs-research-platform)** | Open research implementation of an electromyographic control-system acquisition and evaluation pipeline. |
-| **[Electromyographic Control System](https://xn--l1akg1b.xn--p1ai)** | Hardware–software prototype that converts muscle activity and user movement into computer-control commands. The public presentation is available |
 | **[SlideLink](https://github.com/maggogerka/slidelink-presenter)** | An autonomous ESP32-S3 USB HID presenter with a private Wi-Fi web interface, editable control profiles and no required host-side application. |
 | **[ESP32-S3 Wi-Fi Observatory](https://github.com/maggogerka/esp32-wifi-observatory)** | A local Wi-Fi environment analyser with RSSI history, channel analysis, a REST/JSON API, WebSocket updates and an offline browser dashboard. |
 | **[GitHub Supporter Display](https://github.com/maggogerka/cyd-github-supporter-display)** | A standalone ESP32-2432S028R touchscreen display for GitHub follower cards, avatars and QR codes, with HTTPS access and offline caching. |
@@ -125,7 +124,6 @@ upon in advance.
 - **Email:** [mail.ru](mailto:fbembiev@mail.ru)
 - **Telegram:** [@maggogerka](https://t.me/maggogerka)
 - **GitHub:** [github.com/maggogerka](https://github.com/maggogerka)
-- **EMSU:** [эмсу.рф](https://xn--l1akg1b.xn--p1ai)
 
 > I am always open to discussing interesting engineering ideas, job offers,
 > research and collaborative projects.
