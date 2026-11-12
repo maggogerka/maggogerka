@@ -80,7 +80,7 @@ I am also a **Resident of the [SPIEF Academy](https://spiefacademy.com), 2026–
 | **[Electromyographic Control System research platform](https://github.com/maggogerka/emcs-research-platform)** | Open research implementation of an electromyographic control-system acquisition and evaluation pipeline. |
 | **[SlideLink](https://github.com/maggogerka/slidelink-presenter)** | An autonomous ESP32-S3 USB HID presenter with a private Wi-Fi web interface, editable control profiles and no required host-side application. |
 | **[ESP32-S3 Wi-Fi Observatory](https://github.com/maggogerka/esp32-wifi-observatory)** | A local Wi-Fi environment analyser with RSSI history, channel analysis, a REST/JSON API, WebSocket updates and an offline browser dashboard. |
-| **[GitHub Supporter Display](https://github.com/maggogerka/cyd-github-supporter-display)** | A standalone ESP32-2432S028R touchscreen display for GitHub follower cards, avatars and QR codes, with HTTPS access and offline caching. |
+| **[Wireless Link Failover](https://github.com/maggogerka/wireless-link-failover)** | Research platform for ESP-NOW compatibility and automatic Wi-Fi/UDP failover |
 | **[Forum Participant Navigator](https://github.com/maggogerka/forum-participant-navigator)** | A Python and PostgreSQL system for source-aware collection, storage and searching of structured public participant data. |
 
 More implementation details, documentation, demonstrations and build
